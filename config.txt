@@ -1,6 +1,6 @@
 owner=417084908524142603
 prefix=K
-game=By:Torky.KFC
+game=By:Hack,Mahmoud,Torky,
 stayinchannel=true
 songinstatus=false
 token=NTU5MDcyNjYxODc2MjQ0NTAy.D3gEug.T2GqVJC1vV0L0cylJOWQ-xdaotg
